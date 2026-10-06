@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-10-06T16:50:40-04:00",
+ "generated_at_et": "2026-10-06T19:56:52-04:00",
  "generated_date_et": "2026-10-06",
  "as_of": "2026-10-06",
  "source": "Yahoo Finance (yfinance, daily close, unadjusted)",
@@ -18,7 +18,7 @@
  },
  "stale_symbols": [],
  "missing_symbols": [],
- "data_hash": "5d3d510ef0b96829",
+ "data_hash": "d2141655394be13b",
  "indices": {
   "S&P 500": {
    "symbol": "^GSPC",
@@ -79,7 +79,7 @@
   "Nasdaq Composite": {
    "symbol": "^IXIC",
    "as_of": "2026-10-06",
-   "last": 27599.79,
+   "last": 27599.89,
    "prev": 27477.31,
    "d1_pct": 0.45,
    "w1_ref": "2026-10-02",
@@ -87,7 +87,7 @@
    "m1_ref": "2026-09-04",
    "m1_pct": 4.12,
    "ytd_pct": 18.75,
-   "hi52": 27599.79,
+   "hi52": 27599.89,
    "lo52": 20794.64,
    "closes": [
     {
@@ -128,7 +128,7 @@
     },
     {
      "date": "2026-10-06",
-     "close": 27599.79
+     "close": 27599.89
     }
    ]
   },
